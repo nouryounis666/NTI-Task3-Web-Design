@@ -27,6 +27,12 @@ It is built with **HTML5, CSS3, and Font Awesome icons**.
 - **Google Fonts (Poppins)**
 
 ---
+## Live Demo
+
+This site is hosted on GitHub Pages and can be viewed here:  
+**https://nouryounis666.github.io/NTI-Task3-Web-Design/**
+
+---
 
 ## ⚙️ How to Run the Project
 1. Clone the repository:
